@@ -1,0 +1,35 @@
+.page{
+    background-color: #E4D0D0;
+    padding: 10rem;
+  }
+  .contact{
+    display: flex;
+    flex-direction: center;
+  
+  }
+  
+  .contactform{
+    border-radius: 1rem;
+    width: 80%;
+    padding: 1rem;
+    margin:  auto;
+    margin-top: 2rem;
+    text-align: center;
+    background-color:#D5B4B4;
+    color: #F0F0F0;
+    color: black;
+  }
+  input{
+    border-radius: 20px;
+    border: none;
+    width: 90%;
+    height: 40px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    
+  }
+  #myButton{
+    border-radius: 3rem;
+    width:80px;
+    margin-top: 20px;
+  }
