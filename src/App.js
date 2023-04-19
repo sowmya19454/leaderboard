@@ -29,7 +29,7 @@ function App() {
      <Navbar />
      <ScoreContext.Provider value={scoreContextValue}>
      <Routes>
-     <Route path="/leaderboard.io" element={<Home />} />
+     <Route path="/leaderboard" element={<Home />} />
         <Route path="/Home" element={<Home />} />
         <Route path="Popularplayer" element={<Popularplayer />} />
         <Route path="Contact" element={<Contact />} />
